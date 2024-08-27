@@ -395,6 +395,7 @@
 							<param name="content_path" value="pvr://tv/"/>
 							<param name="widget_header" value="$LOCALIZE[31148]"/>
 							<param name="list_id" value="12900"/>
+							<param name="item_limit" value="2"/>
 						</include>
 						<include content="WidgetListPVR" condition="System.HasPVRAddon + !Skin.HasSetting(home_no_tv_recentlyplayed_widget)">
 							<param name="content_path" value="pvr://channels/tv/*?view=lastplayed"/>
