@@ -96,26 +96,6 @@
 							<param name="area" value="Guide" />
 							<param name="icon" value="icons/submenu/guide.png" />
 						</include>
-						<include content="PVRQuickNavItemsCommon">
-							<param name="control_id" value="102" />
-							<param name="area" value="Recordings" />
-							<param name="icon" value="icons/submenu/recordings.png" />
-						</include>
-						<include content="PVRQuickNavItemsCommon">
-							<param name="control_id" value="103" />
-							<param name="area" value="Timers" />
-							<param name="icon" value="icons/submenu/timers.png" />
-						</include>
-						<include content="PVRQuickNavItemsCommon">
-							<param name="control_id" value="104" />
-							<param name="area" value="TimerRules" />
-							<param name="icon" value="icons/submenu/timer-rules.png" />
-						</include>
-						<include content="PVRQuickNavItemsCommon">
-							<param name="control_id" value="105" />
-							<param name="area" value="Search" />
-							<param name="icon" value="icons/submenu/tv-search.png" />
-						</include>
 					</control>
 				</control>
 				<control type="label" id="200">
